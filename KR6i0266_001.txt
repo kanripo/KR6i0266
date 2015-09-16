@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:32.787106
+#+DATE: 2015-08-30 20:14:34.052451
 #+TITLE: 佛說放鉢經
 #+PROPERTY: CBETA_ID T15n0629
 #+PROPERTY: ID KR6i0266
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 629
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6i0266_T_000-0449a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0266_T_001-0449a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.629[Nos.626,627(3),628]¶
-
- 《佛說放鉢經》¶
+No. 629 [Nos. 626, 627(3), 628]¶
+《佛說放鉢經》¶
 ¶
 安公云元闕譯人今附西晉錄¶
 
