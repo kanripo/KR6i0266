@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 9:07
+#+DATE: 2016-06-08 9:08
 #+TITLE: 佛說放鉢經
 #+PROPERTY: CBETA_ID T15n0629
 #+PROPERTY: ID KR6i0266
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 629
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0266_T_000-0449a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0266_T_001-0449a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
